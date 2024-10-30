@@ -1,0 +1,686 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: InvoiceIT\n"
+"POT-Creation-Date: 2021-05-12 12:06+0200\n"
+"PO-Revision-Date: 2021-05-12 12:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: includes/admin/Admin.php:94
+msgctxt "Post type general name"
+msgid "Invoices"
+msgstr ""
+
+#: includes/admin/Admin.php:95
+msgctxt "Post type singular name"
+msgid "Invoice"
+msgstr ""
+
+#: includes/admin/Admin.php:96
+msgctxt "Admin Menu text"
+msgid "Invoices"
+msgstr ""
+
+#: includes/admin/Admin.php:97
+msgctxt "Add New on Toolbar"
+msgid "Invoice"
+msgstr ""
+
+#: includes/admin/Admin.php:98 includes/admin/Admin.php:147
+#: includes/admin/Admin.php:195
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/Admin.php:99
+msgid "Add New Invoice"
+msgstr ""
+
+#: includes/admin/Admin.php:100
+msgid "New Invoice"
+msgstr ""
+
+#: includes/admin/Admin.php:101
+msgid "Edit Invoice"
+msgstr ""
+
+#: includes/admin/Admin.php:102
+msgid "View Invoice"
+msgstr ""
+
+#: includes/admin/Admin.php:103
+msgid "All Invoices"
+msgstr ""
+
+#: includes/admin/Admin.php:104
+msgid "Search Invoices"
+msgstr ""
+
+#: includes/admin/Admin.php:105
+msgid "Parent Invoices:"
+msgstr ""
+
+#: includes/admin/Admin.php:106
+msgid "No invoices found."
+msgstr ""
+
+#: includes/admin/Admin.php:107
+msgid "No invoices found in Trash."
+msgstr ""
+
+#: includes/admin/Admin.php:108
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”."
+msgid "Invoice archives"
+msgstr ""
+
+#: includes/admin/Admin.php:109
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post)."
+msgid "Insert into invoice"
+msgstr ""
+
+#: includes/admin/Admin.php:110
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”."
+msgid "Filter invoice list"
+msgstr ""
+
+#: includes/admin/Admin.php:111
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”."
+msgid "Invoices list navigation"
+msgstr ""
+
+#: includes/admin/Admin.php:112
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”."
+msgid "Invoices list"
+msgstr ""
+
+#: includes/admin/Admin.php:143
+msgctxt "Post type general name"
+msgid "Clients"
+msgstr ""
+
+#: includes/admin/Admin.php:144
+msgctxt "Post type singular name"
+msgid "Client"
+msgstr ""
+
+#: includes/admin/Admin.php:145
+msgctxt "Admin Menu text"
+msgid "Clients"
+msgstr ""
+
+#: includes/admin/Admin.php:146
+msgctxt "Add New on Toolbar"
+msgid "Client"
+msgstr ""
+
+#: includes/admin/Admin.php:148
+msgid "Add New Client"
+msgstr ""
+
+#: includes/admin/Admin.php:149
+msgid "New Client"
+msgstr ""
+
+#: includes/admin/Admin.php:150
+msgid "Edit Client"
+msgstr ""
+
+#: includes/admin/Admin.php:151
+msgid "View Client"
+msgstr ""
+
+#: includes/admin/Admin.php:152
+msgid "All Clients"
+msgstr ""
+
+#: includes/admin/Admin.php:153
+msgid "Search Clients"
+msgstr ""
+
+#: includes/admin/Admin.php:154
+msgid "Parent Clients:"
+msgstr ""
+
+#: includes/admin/Admin.php:155
+msgid "No clients found."
+msgstr ""
+
+#: includes/admin/Admin.php:156
+msgid "No clients found in Trash."
+msgstr ""
+
+#: includes/admin/Admin.php:157
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”."
+msgid "Client archives"
+msgstr ""
+
+#: includes/admin/Admin.php:158
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post)."
+msgid "Insert into client"
+msgstr ""
+
+#: includes/admin/Admin.php:159
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”."
+msgid "Filter client list"
+msgstr ""
+
+#: includes/admin/Admin.php:160
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”."
+msgid "Clients list navigation"
+msgstr ""
+
+#: includes/admin/Admin.php:161
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”."
+msgid "Clients list"
+msgstr ""
+
+#: includes/admin/Admin.php:191
+msgctxt "Post type general name"
+msgid "Bank Accounts"
+msgstr ""
+
+#: includes/admin/Admin.php:192
+msgctxt "Post type singular name"
+msgid "Bank Account"
+msgstr ""
+
+#: includes/admin/Admin.php:193
+msgctxt "Admin Menu text"
+msgid "Bank Accounts"
+msgstr ""
+
+#: includes/admin/Admin.php:194
+msgctxt "Add New on Toolbar"
+msgid "Bank Account"
+msgstr ""
+
+#: includes/admin/Admin.php:196
+msgid "Add New Bank Account"
+msgstr ""
+
+#: includes/admin/Admin.php:197
+msgid "New Bank Account"
+msgstr ""
+
+#: includes/admin/Admin.php:198
+msgid "Edit Bank Account"
+msgstr ""
+
+#: includes/admin/Admin.php:199
+msgid "View Bank Account"
+msgstr ""
+
+#: includes/admin/Admin.php:200
+msgid "All Bank Accounts"
+msgstr ""
+
+#: includes/admin/Admin.php:201
+msgid "Search Bank Accounts"
+msgstr ""
+
+#: includes/admin/Admin.php:202
+msgid "Parent Bank Accounts:"
+msgstr ""
+
+#: includes/admin/Admin.php:203
+msgid "No bank accounts found."
+msgstr ""
+
+#: includes/admin/Admin.php:204
+msgid "No bank accounts found in Trash."
+msgstr ""
+
+#: includes/admin/Admin.php:205
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”."
+msgid "Bank Account archives"
+msgstr ""
+
+#: includes/admin/Admin.php:206
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post)."
+msgid "Insert into bank account"
+msgstr ""
+
+#: includes/admin/Admin.php:207
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”."
+msgid "Filter bank account list"
+msgstr ""
+
+#: includes/admin/Admin.php:208
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”."
+msgid "Bank Accounts list navigation"
+msgstr ""
+
+#: includes/admin/Admin.php:209
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”."
+msgid "Bank Accounts list"
+msgstr ""
+
+#: includes/admin/Admin.php:308 includes/admin/fields/Invoice.php:42
+msgid "Invoice Number"
+msgstr ""
+
+#: includes/admin/Admin.php:360 includes/admin/fields/Invoice.php:46
+msgid "Client"
+msgstr ""
+
+#: includes/admin/Admin.php:458
+msgid "Something went wrong!"
+msgstr ""
+
+#: includes/admin/Helpers.php:65
+msgid "-- Select Client"
+msgstr ""
+
+#: includes/admin/Helpers.php:93
+msgid "-- Select Account"
+msgstr ""
+
+#: includes/admin/Helpers.php:110
+msgid "-- Select Currency"
+msgstr ""
+
+#: includes/admin/Helpers.php:131
+msgid "-- Select Country"
+msgstr ""
+
+#: includes/admin/Helpers.php:147
+msgid "-- Select State"
+msgstr ""
+
+#: includes/admin/fields/BankAccounts.php:36
+#: includes/admin/fields/Options.php:35
+msgid "The following HTML tags are allowed: "
+msgstr ""
+
+#: includes/admin/fields/BankAccounts.php:38
+msgid "Bank Account"
+msgstr ""
+
+#: includes/admin/fields/BankAccounts.php:42
+msgid "Account Details"
+msgstr ""
+
+#: includes/admin/fields/BankAccounts.php:46
+msgid "Other details e.g. Bank Address"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:39 includes/admin/fields/Options.php:56
+msgid "Address"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:43 includes/admin/fields/Options.php:58
+msgid "Address 1"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:45 includes/admin/fields/Options.php:60
+msgid "Address 2"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:47 includes/admin/fields/Options.php:62
+msgid "City"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:49 includes/admin/fields/Options.php:64
+msgid "Zip Code"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:51 includes/admin/fields/Options.php:66
+msgid "Country"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:54
+msgctxt "As a State of a Country"
+msgid "State"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:68
+msgid "Contact Details"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:72 includes/admin/fields/Clients.php:91
+msgid "Name"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:74 includes/admin/fields/Clients.php:93
+#: includes/admin/fields/Options.php:77
+msgid "Email"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:77 includes/admin/fields/Options.php:80
+msgid "Phone number"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:79 includes/admin/fields/Clients.php:96
+msgid "Mobile number"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:81
+msgid "Other Contacts"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:118
+msgid "Other Details"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:122
+msgid "Tax Rate (%)"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:126 includes/admin/fields/Invoice.php:61
+msgctxt ""
+"The period of time between an invoice is issued and the date payment is due"
+msgid "Net"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:131 includes/admin/fields/Options.php:97
+#: includes/templates/invoice/company-details.php:65
+msgid "VAT ID"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:133
+msgid "Currency"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:147 includes/admin/fields/Invoice.php:143
+#: includes/admin/fields/Options.php:131 includes/templates/invoice.php:132
+msgid "Note"
+msgstr ""
+
+#: includes/admin/fields/Clients.php:151 includes/admin/fields/Invoice.php:147
+msgid "Comment"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:38
+msgid "General"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:49
+msgid "Invoice Status"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:52
+msgid "-- Please Select"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:53
+msgctxt "Invoice stauts"
+msgid "Outstanding"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:54
+msgctxt "Invoice stauts"
+msgid "Paid"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:55
+msgctxt "Invoice stauts"
+msgid "Partially Paid"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:59
+msgid "Invoice Date"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:65
+msgid "Invoice Due Date"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:67
+msgid "Payment Account"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:70
+msgid "Show Signature"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:85
+msgid "Items list"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:89
+msgid "Items"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:98
+msgid "Title"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:100
+msgid "Description"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:103
+#: includes/templates/invoice/table.php:32
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:107
+#: includes/templates/invoice/table.php:33
+msgid "Unit"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:109
+#: includes/templates/invoice/table.php:34
+msgid "Rate"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:113
+#: includes/templates/invoice/table.php:35
+msgid "Discount (%)"
+msgstr ""
+
+#: includes/admin/fields/Invoice.php:118
+#: includes/templates/invoice/table.php:36
+msgid "Amount"
+msgstr ""
+
+#: includes/admin/fields/Options.php:37
+msgid "Company Info"
+msgstr ""
+
+#: includes/admin/fields/Options.php:38
+msgid "Invoice Plugin"
+msgstr ""
+
+#: includes/admin/fields/Options.php:40
+msgid "Branding"
+msgstr ""
+
+#: includes/admin/fields/Options.php:42
+msgid "Company Name"
+msgstr ""
+
+#: includes/admin/fields/Options.php:44
+msgid "Website"
+msgstr ""
+
+#: includes/admin/fields/Options.php:46
+msgid "Logo"
+msgstr ""
+
+#: includes/admin/fields/Options.php:47
+msgid "An image of your company logo for the Invoice header."
+msgstr ""
+
+#: includes/admin/fields/Options.php:49 includes/templates/invoice.php:94
+msgid "Signature"
+msgstr ""
+
+#: includes/admin/fields/Options.php:50
+msgid "A .png image of your signature if you want to insert it into Invoices."
+msgstr ""
+
+#: includes/admin/fields/Options.php:69
+msgid "State"
+msgstr ""
+
+#: includes/admin/fields/Options.php:75
+msgid "Contact"
+msgstr ""
+
+#: includes/admin/fields/Options.php:85
+msgid "Legal"
+msgstr ""
+
+#: includes/admin/fields/Options.php:87
+#: includes/templates/invoice/company-details.php:62
+msgid "Company ID"
+msgstr ""
+
+#: includes/admin/fields/Options.php:89
+msgid "VAT registered"
+msgstr ""
+
+#: includes/admin/fields/Options.php:110
+msgid "Invoice Options"
+msgstr ""
+
+#: includes/admin/fields/Options.php:112
+msgid "Invoice Prefix"
+msgstr ""
+
+#: includes/admin/fields/Options.php:114
+msgid ""
+"If needed you can prefix the invoice number with up to 4 characters for the "
+"print version of the invoice."
+msgstr ""
+
+#: includes/admin/fields/Options.php:116
+msgid "Next Invoice Number"
+msgstr ""
+
+#: includes/admin/fields/Options.php:117
+msgid ""
+"This will be the next Invoice number, change this only if you need to reset "
+"it."
+msgstr ""
+
+#: includes/admin/fields/Options.php:120
+msgid "Fallback Currency"
+msgstr ""
+
+#: includes/admin/fields/Options.php:123
+msgid ""
+"Set a fallback currency if no client is selected for an invoice. If not set "
+"it will default to USD."
+msgstr ""
+
+#: includes/admin/fields/Options.php:124
+msgid "Fallback Tax Rate (%)"
+msgstr ""
+
+#: includes/admin/fields/Options.php:128
+msgid "Set a fallback tax rate if no client is selected for an invoice."
+msgstr ""
+
+#: includes/admin/fields/Options.php:129 includes/templates/invoice.php:121
+msgid "Terms & Conditions"
+msgstr ""
+
+#: includes/admin/fields/Options.php:133
+msgid "Footer Text"
+msgstr ""
+
+#: includes/templates/invoice.php:110
+msgid "Invoice Note"
+msgstr ""
+
+#: includes/templates/invoice/client-details.php:39
+msgid "Bill to"
+msgstr ""
+
+#: includes/templates/invoice/invoice-details.php:18
+msgid "INVOICE"
+msgstr ""
+
+#: includes/templates/invoice/invoice-details.php:23
+msgid "date"
+msgstr ""
+
+#: includes/templates/invoice/invoice-details.php:25
+msgid "due"
+msgstr ""
+
+#: includes/templates/invoice/payment-account-details.php:16
+msgid "Ways to pay"
+msgstr ""
+
+#: includes/templates/invoice/table.php:31
+msgid "Item"
+msgstr ""
+
+#: includes/templates/invoice/table.php:89
+msgid "Subtotal"
+msgstr ""
+
+#: includes/templates/invoice/table.php:98
+msgid "Discount"
+msgstr ""
+
+#: includes/templates/invoice/table.php:107
+msgid "Tax"
+msgstr ""
+
+#: includes/templates/invoice/table.php:116
+msgid "TOTAL"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "InvoiceIT"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://github.com/code-soup/invoice-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Plugin for invoicing with client managment"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Code Soup, brbs, Kodelato"
+msgstr ""
